@@ -150,6 +150,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 for %%i in (1 2 3 4 5) do (
     echo Number: %%i
 )
+```
+
 <img width="1472" height="397" alt="image" src="https://github.com/user-attachments/assets/1df85c09-1d59-47f0-ab71-40ee939c8e2a" />
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
